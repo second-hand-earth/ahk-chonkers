@@ -10,7 +10,7 @@ A couple of scripts to automate litterbox cleaning, bowl refilling, and clicking
 - Cycles through your rooms, cleaning the litterboxes and refilling the food bowl before moving on to the next room.
 - Optional: after cycling through the rooms, repeatedly clicks in one spot to collect distractions while waiting for a litterbox to fill again.
 - Press **F6** to start or pause the script. Press **Esc** to quit.
-- - Before running the script, set `total_rooms` to the number of rooms that have litterboxes.
+- Before running the script, set `total_rooms` to the number of rooms that have litterboxes.
 
 ### `auto_distraction_clicker`
 
